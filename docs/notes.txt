@@ -1,0 +1,18 @@
+npx create-react-app fluentui-todo --template typescript
+
+npm install mobx mobx-react --save
+
+npm install uuid @types/uuid --save
+
+npm install @fluentui/react-northstar --save
+
+Set "experimentalDecorators": true in tsconfig.json
+
+https://github.com/microsoft/fluentui
+
+https://github.com/microsoft/fluentui/tree/master/packages/fluentui
+
+https://fluentsite.z22.web.core.windows.net/
+
+https://dev.to/sirwanafifi/mobx-with-react-and-typescript-58bfv
+
